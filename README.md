@@ -1,4 +1,4 @@
-# PinoyCodeCamp Apps Repo
+# PinoyCodeCamp Apps and Ebooks Repo
 ## Pre-requisites:
 1. Download and install **Visual Studio Code**
 2. Download the source code zip file
@@ -8,6 +8,7 @@
    
 ## ACCESS ALL OUR APPS AND EBOOKS
 For only **Php499** you will get access to all our source code in Javascript, Angular, React, Java, and Springboot. Plus you will get more ebooks.
+Contact us on our FB page for more details.
 
 ## WARNING 
 1. Do NOT add, update, and delete any files
