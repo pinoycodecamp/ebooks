@@ -7,7 +7,7 @@
 
    
 ## ACCESS ALL OUR APPS AND EBOOKS
-**PROMO!!!** Only for the first **25 users**, pay only **Php499** instead of Php999 to get access to all our source code in Javascript, Angular, React, Java, and Springboot. Plus you will get more ebooks.
+**LIMITED OFFER!!!** Only for the first **25 users**, pay only **Php499** instead of Php999 to get access to all our source code in Javascript, Angular, React, Java, and Springboot. Plus you will get more ebooks.
 **Contact us on our FB page for more details**.
 
 ## RULES 
